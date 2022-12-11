@@ -1,0 +1,17 @@
+{
+    "name": "acer/generating-pdf-files-tcpdf-version",
+    "autoload": {
+        "psr-4": {
+            "Acer\\GeneratingPdfFilesTcpdfVersion\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jeremiahquiambao",
+            "email": "quiambao.jeremiah@auf.edu.ph"
+        }
+    ],
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    }
+}
