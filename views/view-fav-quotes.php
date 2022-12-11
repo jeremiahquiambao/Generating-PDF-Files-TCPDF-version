@@ -7,7 +7,7 @@ $pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8',
 
 $pdf->SetCreator(PDF_CREATOR);
 $pdf->SetAuthor('Jeremiah Quiambao');
-$pdf->SetTitle('Display Information PDF');
+$pdf->SetTitle('Favorite Quotes');
 $pdf->SetSubject('PDC10 TCPDF Activity');
 $pdf->SetKeywords('TCPDF, PDF, activity');
 
